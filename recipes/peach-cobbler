@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Peach Cobbler</title>
+    </head>
+    <body>
+        <h1>Peach Cobbler</h1>
+        <img src="../images/peach-cobbler.jpg" alt="peach-cobbler" height="350" width="370">
+    <section>
+        <p>
+            <h2><img src="../images/peach.png"> What is Peach Cobbler?</h2></p>
+        <p>Basically a fruit salad in disguise, buried under a buttery blanket so nobody notices it's a dessert. It's like summer gave you a hug... and then sprinkled sugar on top.</p>
+    </section>
+    <section>
+        <p><h2><img src="../images/ingredients.png" alt=""> Ingredients</h2></p>
+        <ul>
+        <li>½ cup unsalted butter, melted</li>
+        <li>1 cup self-rising flour</li>
+        <li>1 cup white sugar</li>
+        <li>1 cup milk</li>
+        <li>2 (16 ounce) cans sliced peaches in heavy syrup</li></ul>
+    </section>
+        <section>
+        <p><h2><img src="../images/steps.png"> Step By Step</h2></p>
+        <ol><li>Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).</li>
+        <li>Mix self-rising flour, sugar, and milk together in a bowl until well combined and no lumps remain.</li>
+        <li>Pour melted butter into a 2-quart baking dish (or a 9- or 10-inch cast iron skillet). Pour flour-milk mixture over top.</li>
+        <li>Carefully pour peaches and syrup into the skillet. Use a spatula to spread peaches evenly around the pan.</li>
+        <li>Bake in the preheated oven until the crust turns golden brown, 30 to 45 minutes.</li>
+        <li>Remove from the oven and let cool for about 10 minutes before serving.</li>
+    </ol>
+    </section>
+        <br>
+        <p><center><a href="../index.html"> <img src="../images/home.png"></a></center></p>
+    </body>
+</html>

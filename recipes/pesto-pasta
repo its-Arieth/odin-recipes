@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Pesto Pasta</title>
+    </head>
+    <body>
+        <h1>Pesto Pasta</h1>
+        <img src="../images/pesto-pasta.jpg" alt="pesto-pasta" height="420" width="310">
+    <section>
+        <p><h2><img src="../images/basil.png"> What is Pesto Pasta?</h2></p>
+        <p>A proof that blending a garden into a sauce can somehow taste like heaven. It's the only dish where you proudly eat <em>leaves</em> and call it gourmet!</p>
+    </section>
+    <section>
+        <p><h2><img src="../images/ingredients.png" alt=""> Ingredients</h2></p>
+        <ul>
+        <li>1 (16 ounce) package pasta</li>
+        <li>2 tablespoons olive oil</li>
+        <li>2 ½ tablespoons pesto or more to taste</li>
+        <li>2 tablespoons grated Parmesan cheese</li>
+        <li>sea salt to taste</li>
+        <li>ground black pepper to taste</li></ul>
+    </section>
+        <section>
+        <p><h2><img src="../images/steps.png"> Step By Step</h2></p>
+        <ol><li>Fill a large pot with lightly salted water and bring to a rolling boil. Stir in pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 to 10 minutes. Drain and transfer into a large bowl.</li>
+        <li>Add pesto mixture to hot pasta; stir in grated cheese and toss well to coat.</li></ol>
+    </section>
+        <br>
+        <p><center><a href="../index.html"> <img src="../images/home.png"></a></center></p>
+    </body>
+</html>
